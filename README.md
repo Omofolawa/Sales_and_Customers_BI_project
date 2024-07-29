@@ -38,13 +38,19 @@ Total Sales (KPI)
 - Top Selling Products (Table)
 
 Customer Analysis:
-Customer Demographics (Demographic Breakdown), Sales by Customer Segment (Bar Chart), Customer Retention (Line Chart of repeat customers)
+- Customer Demographics (Demographic Breakdown)
+- Sales by Customer Segment (Bar Chart)
+- Customer Retention (Line Chart of repeat customers)
 
 Product Performance:
-Sales by Product (Bar Chart), Inventory Turnover (Line Chart), Product Sales Trends (Line Chart)
+- Sales by Product (Bar Chart)
+- Inventory Turnover (Line Chart)
+- Product Sales Trends (Line Chart)
 
 Store Performance:
-Store Sales Comparison (Bar Chart), Sales by Region (Map), Store Performance Trends (Line Chart)
+- Store Sales Comparison (Bar Chart)
+- Sales by Region (Map)
+- Store Performance Trends (Line Chart)
 
 ## Key Features
 
