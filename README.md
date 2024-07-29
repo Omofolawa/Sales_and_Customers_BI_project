@@ -29,6 +29,30 @@ This project involves the generation, modeling, and visualization of a comprehen
 - Developed visualizations based on specific business requirements.
 - Created dashboards and reports to provide insights into sales performance, customer demographics, product popularity, and store performance.
 
+# Reports and Sales Overview Dashboards:
+
+Total Sales (KPI)
+Sales by Product Category (Pie Chart)
+Sales by Store (Bar Chart)
+Sales Trends (Line Chart)
+Top Selling Products (Table)
+
+Customer Analysis:
+
+Customer Demographics (Demographic Breakdown)
+Sales by Customer Segment (Bar Chart)
+Customer Retention (Line Chart of repeat customers)
+Product Performance:
+
+Sales by Product (Bar Chart)
+Inventory Turnover (Line Chart)
+Product Sales Trends (Line Chart)
+Store Performance:
+
+Store Sales Comparison (Bar Chart)
+Sales by Region (Map)
+Store Performance Trends (Line Chart)
+
 ## Key Features
 
 - **Interactive Dashboards**: Allow users to filter and drill down into specific data points.
